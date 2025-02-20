@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition to ZCDS_12_CUSTOM_DETAIL_598'
+define service ZSD_CUSTOM_DETAIL_598 {
+  expose ZCDS_12_CUSTOM_DETAIL_598 as customer;
+}
